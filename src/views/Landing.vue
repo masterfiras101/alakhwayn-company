@@ -396,7 +396,7 @@ import serviceLastImage from '@/assets/imgs/ic_5.jpg';
                         <h1 class="text-2xl font-extrabold lg:text-2xl 2xl:text-2xl">
                             <span
                                 class="text-transparent bg-gradient-to-br bg-clip-text from-blue-500 via-indigo-500 to-sky-500 dark:from-blue-200 dark:via-indigo-300 dark:to-sky-500">
-                                تطوير المهندس : جهاد يحيى الأكوع
+                            تطوير المهندس : فراس الضاحه
                             </span>
                         </h1>
                     </a>
